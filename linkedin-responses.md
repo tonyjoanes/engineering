@@ -2,6 +2,8 @@
 
 ## Direct Reachout Response
 
+### 1. Response to jobs
+
 Hi {name}
 
 Thank you for reaching out to me about this role, it does sound interesting to me. 
@@ -25,3 +27,18 @@ Book 30min phone call here: https://calendly.com/tonyjoanes/30-minute-recruitmen
 Regards
 
 Tony
+
+### 2. General response
+
+Hi
+
+Thank you for taking the time to read my profile and deciding to connect with me on LinkedIn.
+
+Please could you briefly just tell me on what capacity you want to connect?
+
+Its nothing personal but I like to know who people are while growing my network.
+
+Kind regards
+
+Tony
+
