@@ -19,6 +19,9 @@ My key skills of interest are:
 
 Looking for roles paying £k
 
+Book 15min phone call here: https://calendly.com/tonyjoanes/15min-recruitment-call
+Book 30min phone call here: https://calendly.com/tonyjoanes/30-minute-recruitment-chat
+
 Regards
 
 Tony
