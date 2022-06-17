@@ -15,3 +15,9 @@ If you exit and want to reattach then just do this:
 ```powershell
 kubectl attach mycurlpod -c mycurlpod -i -t
 ```
+
+## Find POD
+
+```powershell
+$POD = @(kubectl get pod -l app.kubernetes.io/name=pod-name -n elekta-platform-elements -o jsonpath="{.items[0].metadata.name}")
+```
